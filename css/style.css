@@ -98,11 +98,6 @@ nav ul a {
     background-color: #aebcb9;
 }
 
-img.resize{
-    width: auto;
-    height: 100%;
-}
-
 .cd-headline.type .cd-words-wrapper.waiting::after {
     -webkit-animation: cd-pulse 1s infinite;
     -moz-animation: cd-pulse 1s infinite;
@@ -132,6 +127,7 @@ img.resize{
     position: absolute;
     visibility: hidden;
 }
+
 .cd-headline.type i.in {
     position: relative;
     visibility: visible;
