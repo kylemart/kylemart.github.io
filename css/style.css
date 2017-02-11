@@ -24,7 +24,7 @@
 }
 
 #nav_f{
-    box-shadow: none !important; 
+    box-shadow: none !important;
     -webkit-box-shadow:none !important;
 }
 
@@ -96,6 +96,11 @@ nav ul a {
     height: 90%;
     width: 1px;
     background-color: #aebcb9;
+}
+
+img.resize{
+    width: auto;
+    height: 100%;
 }
 
 .cd-headline.type .cd-words-wrapper.waiting::after {
