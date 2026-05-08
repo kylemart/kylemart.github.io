@@ -1,6 +1,6 @@
 ---
 title: An x64 dev box for OMSCS on Apple Silicon
-date: 2026-05-08 12:00:00 -0400
+date: 2026-05-08 00:00:00 -0400
 categories: [OMSCS, Infrastructure]
 tags: [omscs, azure, bicep, docker, gios]
 ---
