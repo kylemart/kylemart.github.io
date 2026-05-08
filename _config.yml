@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: kylemart # the main title
 
-tagline: Software Engineer at Microsoft, working on my MSCS in computing systems and AI # it will display as the subtitle
+tagline: SWE at Microsoft, working on my MSCS in computing systems and AI # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Kyle Martinez's personal site — notes on software, school, and side projects.
