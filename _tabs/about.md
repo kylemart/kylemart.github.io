@@ -6,7 +6,7 @@ order: 4
 
 ![Kyle Martinez](/assets/img/about-banner.jpg){: .normal w="700" }
 
-Hello, world!
+Hello, world! 👋
 
 I'm **Kyle Martinez** — a software engineer with a passion for education, technology, problem-solving, and delivering business value.
 
