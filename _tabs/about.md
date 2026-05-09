@@ -4,7 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm **Kyle Martinez** — a software engineer with a passion for education, technology, problem-solving, and delivering business value.
+![Kyle Martinez](/assets/img/about-banner.jpg){: .normal w="700" }
+
+Hello, world!
+
+I'm **Kyle Martinez** — a software engineer with a passion for education, technology, problem-solving, and delivering business value.
 
 I have professional experience building and deploying distributed, cloud-based solutions at scale in fast-paced financial environments. I'm proficient with C#, Python, Java, Scala, (No)SQL, and Apache Spark.
 
